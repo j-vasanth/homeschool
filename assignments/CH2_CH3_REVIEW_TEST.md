@@ -2,6 +2,8 @@
 **Student Name:** Adhvish
 **Date:** March 28, 2026
 
+**Instructions: Show your work and answer in a separate worksheet.**
+
 ---
 
 ## Introduction: The Thinker Block Method

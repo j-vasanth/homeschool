@@ -7,7 +7,7 @@
 
 ## Academic Assessment
 *   **Strengths:** Strong grasp of arithmetic sequences, basic pattern identification, and "Total and Difference" problem-solving using variables.
-*   **Growth Areas:** Needs work on multi-step algebraic logic (specifically Age Problems), finding the $n$th term of a sequence, and recognizing non-linear patterns (cubes).
+*   **Growth Areas:** Needs work on multi-step algebraic logic, specifically "Temporal Consistency" in Age Problems (remembering to age all variables in the equation). Also needs to master finding the $n$th term of a sequence and non-linear patterns (cubes).
 *   **Learning Style:** [TBD]
 
 ## Interests & Personal Goals

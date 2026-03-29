@@ -6,8 +6,8 @@
 *   **Academic Focus:** Math, Science, English (Literature/Reading/Writing), Social Studies
 
 ## Academic Assessment
-*   **Strengths:** [TBD - To be populated based on initial assessments]
-*   **Growth Areas:** [TBD - To be populated based on initial assessments]
+*   **Strengths:** Strong grasp of arithmetic sequences, basic pattern identification, and "Total and Difference" problem-solving using variables.
+*   **Growth Areas:** Needs work on multi-step algebraic logic (specifically Age Problems), finding the $n$th term of a sequence, and recognizing non-linear patterns (cubes).
 *   **Learning Style:** [TBD]
 
 ## Interests & Personal Goals
